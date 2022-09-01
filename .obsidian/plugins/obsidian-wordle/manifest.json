@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-wordle",
+	"name": "Wordle",
+	"version": "0.0.2",
+	"minAppVersion": "0.15.9",
+	"description": "Creates a view where you can play Wordle. No longer actively maintained.",
+	"author": "dbarenholz",
+	"authorUrl": "https://github.com/dbarenholz/dbarenholz",
+	"isDesktopOnly": true
+}
